@@ -1,0 +1,142 @@
+.main{ height:auto; display: inline ;width:auto;  background-color: beige; overflow: scroll;}
+
+
+
+.header{ width:1500px; height: 100px; background-color: beige; float: right;}
+
+ul{margin-left:100px; padding:0px; background-position: top; width: auto;}
+ul li a:hover{ background-color: rgb(201, 155, 155); color: white; }
+ul li:hover ul li{display: block;}
+
+ul li{float: left; background-color: beige;  width: 200px; 
+    text-align: right;list-style-type: none; height:50px; line-height:50px; text-align: center; 
+}
+ul li a{ text-decoration:none; font-size: 20px; color:#ffba6b; display: block; 
+    font-weight: bold; }
+
+ul li a:visited{text-decoration:underline;}
+
+
+
+.box{ height:50em; width:auto; background-color: #ffba6b; }
+#article{ float:left;height: 400px; width:600px; margin-top: 150px; margin-left: 20px;}
+
+#text{float:right; width:700px; height:650px; background-color: beige; margin-top: 15px;
+     margin-right: 10px; padding: 10px; position: relative;
+     
+}
+
+#intro{ float:left; width:400px; height:200px; margin-left: 150px;  margin-top: 60px ;
+}
+h1{text-align: center; color: rgb(201, 155, 155); padding-top: 30px; font-family: verdana; font-size: 42px;}
+
+p{padding: 10px; font-family: verdana; font-size: 26px; color: rosybrown;
+     line-height: 40px; font-weight: 500; margin-left: 20px;}
+
+ h4{ font-family: Verdana; font-size: 16px ; color: black; font-weight: 500;}    
+    
+
+.box2{height:100em; width:auto; background-color: beige; }
+
+
+
+#text2{background-color: beige; width: 600px; height: 300px; display: block; }
+h2{color: rosybrown; padding-top: 100px; font-family: verdana; font-size: 30px; font-weight: 200;}
+
+#topic1{  height: 300px; width: 100%; background-color: #ffba6b;
+    margin-top: 50px; padding: 10px;  position: relative; display: block; margin-bottom: 20px; float: left;}
+#info1{ float:right; padding: 10px;  display: block; margin-right: 170px; margin-top: 100px;}
+
+#topic2{ height: 300px;  width: 100%; margin-top: 50px; padding: 10px;  display:block; float: left;
+     position: relative; margin-top: 50px;display: block; background-color: #ffba6b; margin-bottom: 20px;}
+     #info2{ float:right; padding: 10px;  display: block; margin-right: 200px; margin-top: 100px;}
+#topic3{  height: 300px; width: 100%; margin-top: 50px; padding: 10px; float: left;
+     position: relative ;margin-top: 50px; display: block;background-color: #ffba6b; margin-bottom: 20px;}
+     #info3{ float:right; padding: 10px;  display: block; margin-right: 460px; margin-top: 100px;}
+
+
+h3{color: rosybrown;  font-family: verdana; font-size: 20px; font-weight: 200;}
+
+h3 a{color: rosybrown; text-decoration: none;}
+p1{ font-family: verdana; color:gray; font-size: 16px; }
+
+
+
+#texthold{margin-top: 100px; float:inherit;}
+
+
+
+
+.innerbox{ height:800px; width:1400px; background-color: beige; float:left; display:block; margin-top: 50px; margin-left:20px; }
+#imgbox{float: left; margin-left: 400px;}
+.post1{ float: left; width: 350px; height: 400px; margin-top:300px; margin-left: 50px;
+    padding:5px; background-color: beige; }
+
+.post2{width: 250px; height: 400px;  
+     padding:5px; background-color: beige; margin-top: 300px; margin-right: 50px ; float: right;}
+
+.post3{width: 250px; height: 400px;  
+padding:5px; background-color: beige;  float: right; margin-top: 300px; margin-right: 70px;}
+
+.post4{width: 250px; height: 400px;  background-color: beige;
+    padding:5px;  float: right; margin-top: 100px; margin-right: 140px;}
+
+
+
+
+
+
+.post5{ width: 350px; height: 400px;
+    padding:5px; background-color: beige;  float: left; margin-left: 20px; padding: 5px; }
+
+
+
+
+.post6{ width: 350px; height: 400px;
+    padding:5px; background-color: beige;  float: left; margin-left: 640px; padding: 5px; margin-top: -350px; }
+
+
+.post7{ width: 350px; height: 800px; background-color: beige; margin-top: 100px;
+ float: left; padding:5px; margin-left: 20px; }
+
+ .post8{ width: 350px; height: 800px; background-color: beige;
+    float: left; padding:5px; margin-left: 140px; margin-top: -350px;}
+
+.post9{ width: 350px; height: 800px; background-color: beige; padding: 5px; 
+     float: left; margin-top: 100px; margin-left: 150px;}    
+
+
+.box3 {width: auto; height: 900px; background-color:#ffba6b; }
+#article2{float:left; width:100%; height:800px; float:left;  margin-top:50px; background-color: beige;
+background-repeat: no-repeat; position: relative; margin-right: 20px; padding:10px;}
+.text3{ display: inline; float: inherit; position: relative; }
+
+
+.box4{ width: auto; height: 800px; background-color: beige}
+.frame{width:1400px; height:750px; background-color: aqua;  float: left; margin-left: 10px;
+}
+
+h5{font-size: 30px; font-family: verdana; color: white; font-weight: 300;}
+
+
+#textbox{ position: absolute; margin-top:-500px; margin-left: 350px; padding:20px; color: white;
+    height: 200px; 
+ width: fit-content;}
+
+#textbox h6{font-size: 20px; color: white; font-family: Verdana; margin-right: 20px; margin-top: -20px; font-weight: 300;}
+
+.button{width: fit-content; position: absolute; left: 60%; top: 90%; transform:translate(-50%,-50%);}
+ .press{font-size: 25px; color: yellow; padding: 5px;
+     text-decoration: none; border: 1px solid; margin:10px; transition: 0.6s ease;}
+.type{padding:5px;  width: 200px; height:40px; margin-right: 20px;}
+
+
+
+
+
+.part1{border: aqua; width: 800px; height: 1000px; float: left; margin-left: 300px;
+    border-width: 5px; border-style: double; margin-top: 100px;}
+
+@media screen and (max-width: 1000px){
+    #text{position: static;}
+}
